@@ -31,8 +31,6 @@ def serch_index(sorted_array, target_number):
         # 探索数値が中央値以上なら次回indexより大きい部分を探索
         else:
             left_index = index + 1
-        print(left_index, index, right_index)
-
     # ここまで記述
 
     # 探索対象が存在しない場合、-1を返却

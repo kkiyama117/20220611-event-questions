@@ -1,6 +1,9 @@
 # 20220611-event-questions
 
 ## 環境等追記
+- sourceはsrc/配下にあります.
+
+- Pipenvを利用しましたがformatにのみ利用したためコード自体は公式以外のpackageに非依存です.
 
 
 以下原文

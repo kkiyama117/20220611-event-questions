@@ -13,7 +13,7 @@ def serch_index(sorted_array, target_number):
 
     # ここから記述
 
-    # 属に言う二分探索
+    # 俗に言う二分探索
     # 配列の探索部分の両端および中央値の添字(初期値は配列長の1/2,端数切り捨て)
     left_index = 0
     right_index = len(sorted_array) - 1

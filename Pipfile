@@ -12,6 +12,7 @@ pre-commit = "*"
 [scripts]
 start_1 = "python src/FizzBuzz.py"
 start_2 = "python src/Search.py"
+start_3 = "python src/Sort.py"
 test = "python -m unittest discover -v"
 format = "python -m black src"
 
